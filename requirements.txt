@@ -1,0 +1,5 @@
+aiohttp
+asyncio
+motor
+aiodns
+python-dotenv
